@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhrazak1
 - 👀 I’m interested in learn about program code
 - 🌱 I’m currently learning all type of code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all the projects to learn more about code
 - 📫 How to reach me : send me a email to dhrazak@gmail.com
 
 <!---
